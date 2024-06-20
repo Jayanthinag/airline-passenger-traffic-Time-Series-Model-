@@ -7,10 +7,17 @@ An airline company has the data of the number of passengers that have travelled 
 Making this forecast could be quite beneficial to the company as it would help them take some crucial decisions like -
 
 What capacity aircraft should they use?
+
 When should they fly?
+
 How many air hostesses and pilots do they need?
+
 How much food should they stock in their inventory?
+
 Quantity: Number of passengers
+
 Granularity: Flights from city A to city B; i.e., flights for a particular route
+
 Frequency: Monthly
+
 Horizon: 1 year (12 months)
